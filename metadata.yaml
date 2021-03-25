@@ -1,11 +1,16 @@
 _repo: The-Sun-Death_64724
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64724-h/images/cover.jpg
 creator:
   author:
     agent_name: Whiteside, Stanley
     gutenberg_agent_id: '53026'
     url: http://www.gutenberg.org/2009/agents/53026
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64724#The-Sun-Death
 gutenberg_issued: '2021-03-06'
 gutenberg_type: Text
 identifiers:
